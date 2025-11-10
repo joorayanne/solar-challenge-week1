@@ -6,7 +6,7 @@ Starter repository scaffold generated 2025-11-10.
 
 ```bash
 # 1) Create repo locally
-git clone <YOUR-REPO-URL> solar-challenge-week1
+git clone https://github.com/joorayanne/solar-challenge-week1
 cd solar-challenge-week1
 
 # 2) Create & activate venv
